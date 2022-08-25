@@ -1,5 +1,5 @@
 # motions
-A collection of debate motions.
+A collection of debate motions. hello world by RGonoi.
 
 ## Format
 The format is indentation sensitive. In other words, the number of "tabs" before the first letter in the line determines the type of element.
@@ -10,7 +10,7 @@ Avoid empty lines. The parser will try to remove any empty line but... why risk 
 `Example.txt`
 ```
 Tornament Name
-	2022
+	2023
 		R1
 			THBT AAA
 			THW BBB
